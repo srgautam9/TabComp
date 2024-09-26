@@ -10,6 +10,4 @@ graph TD;
     Test-->documents;
     Train-->metadata.jsonl
     Test-->metadata.jsonl
-    documents-->image1, image2, , , , , imageN
-    documents-->image1, image2, , , , , imageN
 ```
