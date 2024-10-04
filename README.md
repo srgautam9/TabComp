@@ -8,13 +8,13 @@ TabComp
 │   ├── **images**
 │   │   ├── **test**
 │   │   │   └── image1, image2, image3. . . imageN
-│   │   └── train
+│   │   └── **train**
 │   │       └── image1, image2, image3. . . imageN
 │   │
 │   └── **json**
-│       ├── **test**
+│       ├── test
 │       │   └── test.jsonl
-│       └── **train**
+│       └── train
 │           └── train.jsonl
 │
 └── **Question-Answering-Format**
